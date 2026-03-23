@@ -18,17 +18,7 @@ Student at SRM Institute of Science and Technology | AIML student and enthusiast
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=manasibaranidharan&show_icons=true&count_private=true&theme=null" alt="GitHub İstatistikleri" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasibaranidharan&layout=compact&theme=null" alt="En Çok Kullanılan Diller" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=manasibaranidharan&theme=null" alt="GitHub Streak" />
-
-<img src="https://profile-counter.glitch.me/manasibaranidharan/count.svg?" alt="visitors count" />
-
-## GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=manasibaranidharan" alt="trophy" />
 
 ## GitHub Activity Graph
 
