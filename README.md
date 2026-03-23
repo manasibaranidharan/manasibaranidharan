@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hello 👋, I'm Manasi Baranidharan
+### Student Developer
 
-<!--
-**manasibaranidharan/manasibaranidharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student at SRM Institute of Science and Technology | AIML student and enthusiast | Passionate on Space Science and Satellite Technology | Curiosity about space law and policy | Motivated to discover more
 
-Here are some ideas to get you started:
+## Contact Me
+<p><a href="https://www.linkedin.com/in/manasibaranidharan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="astropy" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
+</p>
+
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=manasibaranidharan&show_icons=true&count_private=true&theme=null" alt="GitHub İstatistikleri" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasibaranidharan&layout=compact&theme=null" alt="En Çok Kullanılan Diller" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manasibaranidharan&theme=null" alt="GitHub Streak" />
+
+<img src="https://profile-counter.glitch.me/manasibaranidharan/count.svg?" alt="visitors count" />
+
+## GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=manasibaranidharan" alt="trophy" />
+
+## GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manasibaranidharan&radius=16&theme=github&area=true&order=5" height="300" alt="activity-graph" />
+
